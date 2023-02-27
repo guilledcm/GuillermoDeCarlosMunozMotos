@@ -19,5 +19,8 @@ public class GuillermoDeCarlosMuñozMotos {
 	 }
 	 public void setModelo(String modelo){
          this.modelo = modelo;
- }
+	 }
+	 public String getModelo() {
+		 return modelo;
+	 }
 }
