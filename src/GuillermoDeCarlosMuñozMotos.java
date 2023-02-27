@@ -14,4 +14,7 @@ public class GuillermoDeCarlosMuñozMotos {
              this.marca = marca;
      }
 	 
+	 public String getMarca() {
+		 return marca;
+	 }
 }
