@@ -23,4 +23,8 @@ public class GuillermoDeCarlosMuñozMotos {
 	 public String getModelo() {
 		 return modelo;
 	 }
+	 public void setCv(int cv){
+         this.cv = cv;
+	 }
+	 
 }
