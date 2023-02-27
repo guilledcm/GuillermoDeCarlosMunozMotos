@@ -26,5 +26,7 @@ public class GuillermoDeCarlosMuñozMotos {
 	 public void setCv(int cv){
          this.cv = cv;
 	 }
-	 
+	 public int getCv() {
+		 return cv;
+	 }
 }
